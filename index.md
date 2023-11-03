@@ -1,4 +1,4 @@
-Welcome to the Azure labs. 
+Welcome to the Azure labs.
 
 These are hands-on resources to help you learn Azure.
 
